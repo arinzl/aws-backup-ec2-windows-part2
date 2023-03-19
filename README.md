@@ -1,6 +1,6 @@
 # Installation  
 
-Please see #TODO for detailed explaination.
+Please see https://devbuildit.com/2023/02/11/monitoring-aws-windows-ec2-instances-with-cloudwatch-part-1/ for detailed explaination.
 
 ## Requirements:
 - Terraform CLI installed with access to your target AWS account
